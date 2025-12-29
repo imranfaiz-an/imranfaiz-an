@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Muhammad Faizan Imran and I am a graduate student at the University of Chicago. I am enrolled in the [Master's in Computational Analysis and Public Policy Program] (https://capp.uchicago.edu/) and I will graduate in Summer 2027. Before joining the MSCAPP program at UChicago I worked as a Research Assistant at [the Center for Economic Research in Pakistan] (https://www.cerp.org.pk/) and [Mahbub ul Haq Research Centre at LUMS] (https://mhrc.lums.edu.pk/) my research focus has been the political economy of institutions in the context of the Global South and how economic, social and political institutions impact development. At UChicago I am continuing my work as an RA at the [Social Sciences Division] (https://socialsciences.uchicago.edu/) and I am evaluating the offshore financing by the elite based on signal related to local reforms that would have an impact on their wealth.
+
+Please feel free to explore the projects I am currently working or have worked on the past including some coursework to get a better sense of my skills and experience:
+
+- [George Washington Carver Centre for the Advancement of Science and Education - Mapping Stem Educational Disparities] (https://github.com/imranfaiz-an/gw_carver): Visualizing the disparities in stem educational outcomes and facilities in the South side of Chicago. Merging various datasets to perform a zip code level analysis.
+
+- [MSCAPP Coursework] (https://github.com/imranfaiz-an/capp_coursework): A brief summary of my coursework I did for my MSCAPP courses. 
