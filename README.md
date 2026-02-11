@@ -22,3 +22,5 @@ Please feel free to explore the projects I am currently working on or have worke
 - [George Washington Carver Centre for the Advancement of Science and Education - Mapping Stem Educational Disparities](https://github.com/imranfaiz-an/gw_carver): Visualizing the disparities in stem educational outcomes and facilities in the South side of Chicago. Merging various datasets to perform a zip code level analysis.
 
 - [MSCAPP Coursework](https://github.com/imranfaiz-an/capp_coursework):  A summary of selected coursework completed at the University of Chicago.
+
+Please feel free to reach out to me directly on my [email](imranfaiz@uchicago.edu)! The latest version of my resume can be accessed [here](https://github.com/imranfaiz-an/resumes/blob/main/imran_cv.pdf). 
