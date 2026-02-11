@@ -23,4 +23,4 @@ Please feel free to explore the projects I am currently working on or have worke
 
 - [MSCAPP Coursework](https://github.com/imranfaiz-an/capp_coursework):  A summary of selected coursework completed at the University of Chicago.
 
-Please feel free to reach out to me directly on my [email](imranfaiz@uchicago.edu)! The latest version of my resume can be accessed [here](https://github.com/imranfaiz-an/resumes/blob/main/imran_cv.pdf). 
+Please feel free to reach out to me directly on my [email](imranfaiz@uchicago.edu)! You can also view the latest version of my resume [here](https://github.com/imranfaiz-an/resumes/blob/main/imran_cv.pdf). 
