@@ -19,7 +19,14 @@ My name is Faizan and I am a graduate student at the University of Chicago, enro
 
 Please feel free to explore the projects I am currently working on or have worked on in the past, including selected coursework, to get a better sense of my skills and experience:
 
-- [MSCAPP Coursework](https://github.com/imranfaiz-an/capp_coursework):  A summary of selected coursework in computer science completed at the University of Chicago as part of the CAPP program.
+- [MSCAPP Coursework](https://github.com/imranfaiz-an/capp_coursework):  A summary of selected coursework in computer science completed at the University of Chicago as part of the CAPP program. Includes topics in basic python data structures to more complex workflows like web scraping, building APIs, working with geospatial data and implementing O(1) data structures like Hash Tables. The following are the libraries that I have used for my projects and assignments:
+  
+   - Polars/Pandas & numpy (data cleaning and wrangling)
+   - Altair & matplotlib (data visualization)
+   - Shapely (geospatial data)
+   - HTTPX (API calls)
+   - lxml & cssselect (web scraping)
+   - Jellyfish (string matching)
 
 - [GWC Centre for the Advancement of Science and Education - Mapping Stem Educational Disparities](https://github.com/imranfaiz-an/gw_carver): A project I worked on over two days during [2025 Scopeathon](https://www.linkedin.com/posts/mscapp_congratulations-to-our-capp-students-for-ugcPost-7393683236176076800-00se?utm_source=share&utm_medium=member_desktop&rcm=ACoAADpH8uQB97-jUdHUQ-0J2rTIOxFHhMmw9F0) that hosted 9 organizations from the South Side of Chicago. Our team of 3 worked with [GWC](https://thecarversciencecenter.org/) on a specific problem of merging 3 seperate datasets to get zip-code and neighborhood level outcomes comparing schools in the South side of Chicago to those up North. I have continued to volunteer for the organization an I am now working on making dynamic maps using Altair in Python to visualize these educational disparities.
 
