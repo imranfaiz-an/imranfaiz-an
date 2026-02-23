@@ -22,7 +22,6 @@ Please feel free to explore the projects I am currently working on or have worke
 - [MSCAPP Coursework](https://github.com/imranfaiz-an/capp_coursework):  A summary of selected coursework in computer science completed at the University of Chicago as part of the CAPP program. The codes written as part of the coursework can be shared upon request. I have covered topics from basic python data structures to more complex workflows like web scraping, building APIs, working with geospatial data, implementing O(1) complexity data structures like Hash Tables and working with graph data.
 
 The following are some of the libraries that I have used for my projects and assignments as part of coursework and projects:
-  
    - Polars/Pandas & Numpy (Data Cleaning/Wrangling)
    - Altair & matplotlib (Data Visualization)
    - Shapely & Shapefile (Geospatial data)
