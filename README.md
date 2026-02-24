@@ -22,13 +22,14 @@ Please feel free to explore the projects I am currently working on or have worke
 - [MSCAPP Coursework](https://github.com/imranfaiz-an/capp_coursework):  A summary of selected coursework in computer science completed at the University of Chicago as part of the CAPP program. The codes written as part of the coursework can be shared upon request. I have covered topics from basic python data structures to more complex workflows like web scraping, building APIs, working with geospatial data, implementing O(1) complexity data structures like Hash Tables and working with graph data.
 
   - Following are some of the libraries that I have used for my projects and assignments:
-      - Polars/Pandas & Numpy (Data Cleaning/Wrangling)
+      - Polars/Pandas (Data Cleaning/Wrangling)
       - Altair & matplotlib (Data Visualization)
       - Shapely & Shapefile (Geospatial data)
       - HTTPX (API calls)
       - lxml & cssselect (Web Scraping)
       - Jellyfish (String Matching)
       - NetworkX (Graphs)
+      - Numpy (Linear Algebra)
 
 - [GWC Centre for the Advancement of Science and Education - Mapping Stem Educational Disparities](https://github.com/imranfaiz-an/gw_carver): A project I worked on over two days during [2025 Scopeathon](https://www.linkedin.com/posts/mscapp_congratulations-to-our-capp-students-for-ugcPost-7393683236176076800-00se?utm_source=share&utm_medium=member_desktop&rcm=ACoAADpH8uQB97-jUdHUQ-0J2rTIOxFHhMmw9F0) that hosted 9 organizations from the South Side of Chicago. Our team of 3 worked with [GWC](https://thecarversciencecenter.org/) on a specific problem of merging 3 seperate datasets to get zip-code and neighborhood level outcomes comparing schools in the South side of Chicago to those up North. I have continued to volunteer for the organization and I am now working on making dynamic maps using Altair in Python to help better visualize educational disparities across Chicago.
 
