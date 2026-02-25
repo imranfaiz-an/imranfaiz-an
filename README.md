@@ -19,7 +19,7 @@ My name is Faizan and I am a graduate student at the University of Chicago, enro
 
 Please feel free to explore the projects I am currently working on or have worked on in the past, including selected coursework, to get a better sense of my skills and experience:
 
-- [MSCAPP Coursework](https://github.com/imranfaiz-an/capp_coursework):  A summary of selected coursework in computer science completed at the University of Chicago as part of the CAPP program. The codes written as part of the coursework can be shared upon request. I have covered topics from basic python data structures to more complex workflows like web scraping, building APIs, working with geospatial data, implementing O(1) complexity data structures like Hash Tables and working with graph data.
+- [MSCAPP Coursework](https://github.com/imranfaiz-an/capp_coursework):  A summary of selected coursework in computer science completed at the University of Chicago as part of the CAPP program. The codes written as part of the coursework can be shared upon request. The codes I have written have given me practice with basic python data structures to more complex workflows like web scraping, code to interact with get live API data, working with geospatial data, implementing O(1) complexity data structures like Hash Tables and working with graph data.
 
   - Following are some of the libraries that I have used for my projects and assignments:
       - Polars/Pandas (Data Cleaning/Wrangling)
