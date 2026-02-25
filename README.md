@@ -20,8 +20,8 @@ My name is Faizan and I am a graduate student at the University of Chicago, enro
 Please feel free to explore the projects I am currently working on or have worked on in the past, including selected coursework, to get a better sense of my skills and experience:
 
 - [CAPP 122 Project - Chi-Ed](https://github.com/uchicago-2026-capp30122/project-chi-ed) *(in progress)*
-  - Final project for CAPP 122 CS course where I am working with a team of 2 more members to analyze and map highschool educational outcomes for over 170 hishschools in Chicago. For the project I have written modules to fetch [Chicago Public Schools API](https://api.cps.edu/) JSON data, clean and synthesize different data sources and am currently building an interactive dashboard to visualize the outcomes of different schools in different neighborhoods.
-  - Libraries Used: Polars, HTTPX, re, Dash, ALtair
+  - Final project for CAPP 122 CS course where I am working with a team of 2 more members to analyze and map highschool educational outcomes for over 170 hishschools in Chicago. For the project my indvidual contribution has been to fetch [Chicago Public Schools API](https://api.cps.edu/) JSON data, clean and synthesize different data sources and I am currently building an interactive dashboard to visualize the outcomes of different schools in different neighborhoods and construct an index to rank all the highschools based on select metrics.
+  - Libraries Used: Polars, HTTPX, re, Dash, Altair
 - [MSCAPP Coursework](https://github.com/imranfaiz-an/capp_coursework):  A summary of selected coursework in computer science completed at the University of Chicago as part of the CAPP program. The codes written as part of the coursework can be shared upon request. The codes I have written have given me practice with basic python data structures to more complex workflows like web scraping, code to interact with get live API data, working with geospatial data, implementing O(1) complexity data structures like Hash Tables and working with graph data.
 
   - Following are some of the libraries that I have used for my projects and assignments:
