@@ -23,17 +23,15 @@ Please feel free to explore the projects I am currently working on or have worke
   - Final project for CAPP 122 CS course where I worked with a team of 2 more members to analyze and map highschool educational outcomes for over 170 hishschools in Chicago. For the project my indvidual contribution was to build the data pipeline by fetching [Chicago Public Schools API](https://api.cps.edu/) JSON data, cleaninging it, and using record linkage to merge this data with Illinois State Board of Education's Report Card data. This complete dataset was then used to build a dashboard and was used to automate PDF generation comparing any two schools across Chicago on a variety of metrics.
   - Libraries Used: Polars, HTTPX, re
 - [MSCAPP Coursework](https://github.com/imranfaiz-an/capp_coursework):
-  - A summary of selected computer science coursework completed through the University of Chicago’s CAPP program. Code from these assignments is available upon request. The projects involved developing Python modules that apply core computer science concepts, including data structures, web scraping, API integration for live data, geospatial data processing, implementation of O(1) data structures such as hash tables, and graph-based data modeling.
-
-  - Following are some of the libraries that I have used for my projects and assignments:
-      - Polars/Pandas (Data Cleaning/Wrangling)
-      - Altair & matplotlib (Data Visualization)
-      - Shapely & Shapefile (Geospatial data)
-      - HTTPX (API calls)
-      - lxml & cssselect (Web Scraping)
-      - Jellyfish (String Matching)
-      - NetworkX (Graphs)
-      - Numpy (Linear Algebra)
+  - A summary of selected computer science coursework completed through the University of Chicago’s CAPP program. Code from these assignments is available upon request. The projects involved developing Python modules that apply core computer science concepts, including data structures, web scraping, API integration for live data, geospatial data processing, implementation of O(1) data structures such as hash tables, and graph-based data modeling. Following are some of the libraries that I have used for my projects and assignments:
+    - Polars/Pandas (Data Cleaning/Wrangling)
+    - Altair & matplotlib (Data Visualization)
+    - Shapely & Shapefile (Geospatial data)
+    - HTTPX (API calls)
+    - lxml & cssselect (Web Scraping)
+    - Jellyfish (String Matching)
+    - NetworkX (Graphs)
+    - Numpy (Linear Algebra)
 
 - [GWC Centre for the Advancement of Science and Education - Mapping Stem Educational Disparities](https://github.com/imranfaiz-an/gw_carver):
   - A project I worked on over two days during [2025 Scopeathon](https://www.linkedin.com/posts/mscapp_congratulations-to-our-capp-students-for-ugcPost-7393683236176076800-00se?utm_source=share&utm_medium=member_desktop&rcm=ACoAADpH8uQB97-jUdHUQ-0J2rTIOxFHhMmw9F0) that hosted 9 organizations from the South Side of Chicago. Our team of 3 worked with [GWC](https://thecarversciencecenter.org/) on a specific problem of merging 3 seperate datasets to get zip-code and neighborhood level outcomes comparing schools in the South side of Chicago to those up North. I have continued to volunteer for the organization and I am now working on making dynamic maps using Altair in Python to help better visualize educational disparities across Chicago.
