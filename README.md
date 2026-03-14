@@ -24,6 +24,7 @@ Please feel free to explore the projects I am currently working on or have worke
   - Libraries Used: Polars, HTTPX, re
 - [MSCAPP Coursework](https://github.com/imranfaiz-an/capp_coursework):
   - A summary of selected computer science coursework completed through the University of Chicago’s CAPP program. Code from these assignments is available upon request. The projects involved developing Python modules that apply core computer science concepts, including data structures, web scraping, API integration for live data, geospatial data processing, implementation of O(1) data structures such as hash tables, and graph-based data modeling. Following are some of the libraries that I have used for my projects and assignments:
+
     - Polars/Pandas (Data Cleaning/Wrangling)
     - Altair & matplotlib (Data Visualization)
     - Shapely & Shapefile (Geospatial data)
