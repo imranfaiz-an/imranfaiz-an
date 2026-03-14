@@ -19,8 +19,8 @@ My name is Faizan and I am a graduate student at the University of Chicago, enro
 
 Please feel free to explore the projects I am currently working on or have worked on in the past, including selected coursework, to get a better sense of my skills and experience:
 
-- [CAPP 122 Project - Chi-Ed](https://github.com/uchicago-2026-capp30122/project-chi-ed) *(in progress)*
-  - Final project for CAPP 122 CS course where I am working with a team of 2 more members to analyze and map highschool educational outcomes for over 170 hishschools in Chicago. For the project my indvidual contribution has been to build the data pipeline by fetching [Chicago Public Schools API](https://api.cps.edu/) JSON data, cleaning and synthesize it. And using record linkage to merge API data with Illinois State Board of Education's Report Card data. 
+- [CAPP 122 Project - Chi-Ed](https://github.com/uchicago-2026-capp30122/project-chi-ed) 
+  - Final project for CAPP 122 CS course where I worked with a team of 2 more members to analyze and map highschool educational outcomes for over 170 hishschools in Chicago. For the project my indvidual contribution was to build the data pipeline by fetching [Chicago Public Schools API](https://api.cps.edu/) JSON data, cleaninging it, and using record linkage to merge this data with Illinois State Board of Education's Report Card data. This complete dataset was then used to build a dashboard and was used to automate PDF generation comparing any two schools across Chicago on a variety of metrics.
   - Libraries Used: Polars, HTTPX, re
 - [MSCAPP Coursework](https://github.com/imranfaiz-an/capp_coursework):
   - A summary of selected computer science coursework completed through the University of Chicago’s CAPP program. Code from these assignments is available upon request. The projects involved developing Python modules that apply core computer science concepts, including data structures, web scraping, API integration for live data, geospatial data processing, implementation of O(1) data structures such as hash tables, and graph-based data modeling.
