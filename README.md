@@ -39,4 +39,4 @@ Please feel free to explore the projects I am currently working on or have worke
 
 I am also working as a part time RA at the [Social Sciences Division](https://socialsciences.uchicago.edu/) at UChicago, where I am evaluating how economic elites use electoral signals to offshore their wealth when a leader with left leaning tax agenda is elected to office.
 
-Please feel free to reach out to me directly on my [email](imranfaiz@uchicago.edu). You can also view the latest version of my resume [here](https://github.com/imranfaiz-an/imranfaiz-an/blob/main/resumes/imran_resume_03_17.pdf).
+Please feel free to reach out to me directly on my [email](imranfaiz@uchicago.edu). You can also view the latest version of my resume [here](https://github.com/imranfaiz-an/imranfaiz-an/blob/main/resumes/imran_resume_3_17.pdf).
