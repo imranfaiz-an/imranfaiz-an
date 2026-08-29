@@ -19,6 +19,9 @@ My name is Faizan and I am a graduate student at the University of Chicago, enro
 
 Please feel free to explore the projects I am currently working on or have worked on in the past, including selected coursework, to get a better sense of my skills and experience:
 
+- New York City's Department of Finance - Modeling Team
+  -  Contributed to the development of an internal R package used by the modeling team at DOF to value properties. Wrote functions the cut redundancies and added a new function that tests for the Vertical Equity in the assessed values for properties the method outlined by [IAAO](https://www.iaao.org/publication/fe-november-2025/).
+  -  Developed a full-stack application meant for internal use by DOF employees and property tax assessors to find comparable properties for assessing purposes. The tools uses Lazy framework from the Polars library to speed up different ETL processes in the tool. The tool's main added value was to build a platform that combines data from different legacy system sources including different databases, external third party APIs and automating internal excel workflows. *Note: Since the data used had sensitive PII information the tool is hosted privately inside DOF*  
 - [CAPP 122 Project - Chi-Ed](https://github.com/uchicago-2026-capp30122/project-chi-ed) 
   - Final project for CAPP 122 CS course where I worked with a team of 2 more members to analyze and map high school educational outcomes for over 170 high schools in Chicago. For the project my indvidual contribution was to build the data pipeline by fetching [Chicago Public Schools API](https://api.cps.edu/) JSON data, cleaning it, and using record linkage to merge this data with Illinois State Board of Education's Report Card data. This complete dataset was then used to build a dashboard and was used to automate PDF generation comparing any two schools across Chicago on a variety of metrics.
   - Libraries Used: Polars, HTTPX, re
