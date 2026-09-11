@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 My name is Faizan and I am a graduate student at the University of Chicago, enrolled in the [Master's in Computational Analysis and Public Policy Program (CAPP)](https://capp.uchicago.edu/) and will graduate in the Summer of 2027. I just finished my summer internship at New York City's [Department of Finance](https://github.com/nycdepartmentoffinance) where I worked for 13 weeks as a Data Science Intern, and gained direct exposure to applying technical skills to reform legacy processes and use data to inform policy. 
 
-Before joining the CAPP program at UChicago I worked as a Research Assistant at [the Center for Economic Research in Pakistan](https://www.cerp.org.pk/) and [Mahbub ul Haq Research Centre at LUMS](https://mhrc.lums.edu.pk/) my research work there over 3 years focused on using technical tools to study differenct policy problems like the inequitable property tax schedule in Punjab, and develop a mobile heatlh applications to support neonatal care in rural Punjab. 
+Before joining the CAPP program at UChicago I worked as a Research Assistant at [the Center for Economic Research in Pakistan](https://www.cerp.org.pk/) and [Mahbub ul Haq Research Centre at LUMS](https://mhrc.lums.edu.pk/) my research work there over 3 years focused on using technical tools to study different policy problems like the inequitable property tax schedule in Punjab, and develop a mobile health applications to support neonatal care in rural Punjab. 
 
 
 Please feel free to explore some of my projects, coursework and recent professional work to get a better sense of my skills and experience:
