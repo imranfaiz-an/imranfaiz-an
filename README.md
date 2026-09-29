@@ -29,4 +29,4 @@ Please feel free to explore some of my projects, coursework and recent professio
 
 ---
 
-Please feel free to reach out to me directly on my [email](imranfaiz@uchicago.edu). You can also view the latest version of my resume [here](https://github.com/imranfaiz-an/imranfaiz-an/blob/main/resumes/imran_resume_august_26.pdf).
+Please feel free to reach out to me directly on my [email](imranfaiz@uchicago.edu). You can also view the latest version of my resume [here](https://github.com/imranfaiz-an/imranfaiz-an/blob/main/resumes/resume_august_26.pdf).
