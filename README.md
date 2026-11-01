@@ -32,13 +32,6 @@ Please feel free to reach out to me directly on my [email](imranfaiz@uchicago.ed
 
 ---
 
-<p align="center">
-  <picture>
-    <img src="./profile/streak.svg" alt="GitHub Streak" />
-  </picture>
-</p>
----
-
 ### Tech Stack:
 
 <p align="center">
@@ -54,3 +47,13 @@ Please feel free to reach out to me directly on my [email](imranfaiz@uchicago.ed
     <img height="44" alt="Node.js, Flask, MySQL, Git" src="https://skillicons.dev/icons?i=nodejs,flask,mysql,git" />
   </picture>
 </p>
+
+---
+
+<p align="center">
+  <picture>
+    <img src="./profile/streak.svg" alt="GitHub Streak" />
+  </picture>
+</p>
+
+---
