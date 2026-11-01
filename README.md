@@ -32,6 +32,10 @@ Please feel free to reach out to me directly on my [email](imranfaiz@uchicago.ed
 
 ## Stack
 
-< p align="center">
-<img height="44" alt="TypeScript, JavaScript, React, Next.js, Node.js, Python, MySQL, CSS, D3, Flask, HTML, R and Git" src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,py,mysql,css,d3,flask,html,r,git" />
+<p align="center">
+  <img height="44" alt="TypeScript, JavaScript, Python, R" src="https://skillicons.dev/icons?i=ts,js,py,r" />
+  <br />
+  <img height="44" alt="React, Next.js, HTML, CSS, D3" src="https://skillicons.dev/icons?i=react,nextjs,html,css,d3" />
+  <br />
+  <img height="44" alt="Node.js, Flask, MySQL, Git" src="https://skillicons.dev/icons?i=nodejs,flask,mysql,git" />
 </p>
