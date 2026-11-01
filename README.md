@@ -35,7 +35,7 @@ Please feel free to reach out to me directly on my [email](imranfaiz@uchicago.ed
 ### Tech Stack
 
 <p align="center">
-  <img height="44" alt="TypeScript, JavaScript, Python, R" src="https://skillicons.dev/icons?i=py,r,js.ts" />
+  <img height="44" alt="TypeScript, JavaScript, Python, R" src="https://skillicons.dev/icons?i=py,r,js,ts" />
   <br />
   <img height="44" alt="React, Next.js, HTML, CSS, D3" src="https://skillicons.dev/icons?i=react,nextjs,html,css,d3" />
   <br />
