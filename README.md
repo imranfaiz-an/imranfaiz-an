@@ -30,10 +30,12 @@ Please feel free to explore some of my projects, coursework and recent professio
 
 Please feel free to reach out to me directly on my [email](imranfaiz@uchicago.edu). You can also view the latest version of my resume [here](https://github.com/imranfaiz-an/imranfaiz-an/blob/main/resumes/resume_august_26.pdf).
 
-## Tech Stack
+---
+
+### Tech Stack
 
 <p align="center">
-  <img height="44" alt="TypeScript, JavaScript, Python, R" src="https://skillicons.dev/icons?i=ts,js,py,r" />
+  <img height="44" alt="TypeScript, JavaScript, Python, R" src="https://skillicons.dev/icons?i=py,r,js.ts" />
   <br />
   <img height="44" alt="React, Next.js, HTML, CSS, D3" src="https://skillicons.dev/icons?i=react,nextjs,html,css,d3" />
   <br />
