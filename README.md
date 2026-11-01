@@ -32,6 +32,13 @@ Please feel free to reach out to me directly on my [email](imranfaiz@uchicago.ed
 
 ---
 
+<p align="center">
+  <picture>
+    <img src="./profile/streak.svg" alt="GitHub Streak" />
+  </picture>
+</p>
+---
+
 ### Tech Stack:
 
 <p align="center">
